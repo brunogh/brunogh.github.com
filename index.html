@@ -1,14 +1,12 @@
 ---
 layout: layout
-title: "Posts"
+title: "About"
 ---
 
+<!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
 <section class="content">
-  <ul class="listing">
-    {% for post in site.posts %}
-    <li>
-      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
+  <h1>{{ site.name }}</h1>
+
+  <p>Cofounder of <a href="http://resultadosdigitais.com.br">Resultados Digitais</a>. Open Source dev. Tech Blogger. MSc in CS. Beer lover.</p>
+  <p>I live in <a href="http://en.wikipedia.org/wiki/Florian%C3%B3polis">Floripa</a>, the Silicon Island.</p>
 </section>

@@ -4,9 +4,10 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
-name: Zach Holman
-url: http://zachholman.com
-description: A fantastic blog that is fantastic.
-twitter: holman
-github: holman
-gravatar_url: http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c
+name: Bruno Ghisi
+url: http://brunoghisi.com
+description: My personal blog
+twitter: brunogh
+github: brunogh
+linkedin: http://br.linkedin.com/in/brunoghisi/pt
+gravatar_url: http://www.gravatar.com/avatar/410df0b7c43e35ed602efe281810b1ff
